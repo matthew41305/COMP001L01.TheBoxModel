@@ -46,5 +46,31 @@ header h1 {
 	padding-bottom: 5px;
  }
 
- /*About section image styling */
+ /* About section styling for image moves images to proper place and sets the right size */
+ #about-photo {
+	width: 100%;
+	max-width: 300px;
+	float: left;
+	margin-right: 15px;
+	border: 1px solid #444;
+ }
+
+ /*Discography section*/
+ #section-discography img.album-art {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 10px;
+	border: 1px solid #444;
+ }
+
+ .record-label {
+	color: #ff0000;
+
+ }
+
+ .track-light{
+	list-style-type: disc;
+	padding-left: 20px;
+ }
 
