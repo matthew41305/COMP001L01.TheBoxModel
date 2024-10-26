@@ -22,3 +22,29 @@ header h1 {
 	margin: 0;
 }
 
+ #text-intro {
+	color: #ff0000;
+	font-style: italic;
+ }
+
+ /* styling for main context*/
+ main {
+	padding: 20px;
+ }
+ /* Section styling for padding and set border */
+
+ section{
+	border: 1px solid #ff0000;
+	padding: 15px;
+	margin-bottom: 20px
+ }
+
+ h3 {
+	color: #ff0000;
+	font-size: 1.8em;
+	border-bottom: 1px solid #444;
+	padding-bottom: 5px;
+ }
+
+ /*About section image styling */
+
